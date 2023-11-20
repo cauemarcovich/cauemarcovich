@@ -6,7 +6,7 @@ If you'd like to see my **game projects**,  check them out on my **[GitLab](http
 ---
 
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)][gitlab]
-[![GitLab](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)][itchio]
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge)][portfolio]
 
