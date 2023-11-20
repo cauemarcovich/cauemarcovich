@@ -1,4 +1,4 @@
-# Hi there! I'm Caue Marcovich!
+# Hi there! I'm Caue Marcovich! :video_game:
 
 I'm a game programmer/developer from São Paulo, Brazil and this is my personal GitHub.  
 If you'd like to see my **game projects**,  check them out on my **[GitLab](https://gitlab.com/happytallon).**
